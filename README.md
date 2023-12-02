@@ -1,1 +1,10 @@
 # Skin-Lesion-Classification
+
+Automatic skin lesion classification in dermoscopy images represents a useful approach towards increasing diagnosis accuracy rates, thereby reducing cases of melanoma mortality. Even though DCNNs have brought significant advances to many image classifications, labeling skin lesions still represents a hard task primarily because of limited training samples, within-class similarities, between-class discrepancies, and incapability of concentrating attention on semantically significant portions of the Therefore, we suggest the incorporation of multiple Pesi blocks, a global average pool and a classification layer constructing attention residual learning CNN for skin lesion categorization by dermoscopy pictures. Each Pesi block relies on residual learning and new attention learning to facilitate discriminative representation. The novelty of the proposed attention learning mechanism is in utilizing the internal self-attention characteristics of DCNNs instead of additional trainable layers and utilizing the features maps produced by the high layers as an attention vector of a lower level. In assessing our Pesi-CNN model, we used the ISIC-skin 2017 data set. The outcome shows that the Pesi-CNN model can adapt itself to selective regions with discriminatory properties towards the classification of skin lesions, thereby achieving excellent classifier performance.
+Results showed that the developed deep learning system can correctly diagnose the skin lesion with great promise for integration into a clinical workflow. The suggested model possesses good accuracy with reliable results on different skin diseases that make it an essential component in the dermatological practice as well as among health providers.
+
+While this research effort is directed towards utilization of artificial intelligence for medical images analysis particularly in skin disease, it ultimately intends to enhance early diagnosis and successful management of skin diseases.
+
+![image](https://github.com/AnoshDamania/Skin-Lesion-Classification/assets/72311146/3f277bf5-3166-4697-b981-5b5888c95a43)
+
+
