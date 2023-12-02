@@ -1,0 +1,1 @@
+The ISIC 2018 Dataset can be accessed from this link - "https://challenge.isic-archive.com/data/"
