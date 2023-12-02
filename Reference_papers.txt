@@ -1,0 +1,17 @@
+Spencer Shawna Bram Hannah J, Frauendorfer Megan and Hartos Jessica L. 2017. Does the Prevalence of Skin Cancer Differ by Metropolitan Status for Males and Females in the United States? Journal of Preventive Medicine 3, 3:9 (2017), 1–6. https://doi.org/10.21767/2572-5483.100019
+Wild CP Stewart BW. 2014. World Cancer Report. Retrieved March 16, 2019 from: http://publications.iarc.fr/Non-Series-Publications/World-Cancer-Reports/World-Cancer-Report2014
+Author links open overlay panelJinshan Tang et al. (2008a) A multi-direction GVF snake for the segmentation of skin cancer images, Pattern Recognition. https://www.sciencedirect.com/science/article/pii/S0031320308003907
+Hu, M., Li, Y. and Yang, X. (2023) SkinSAM: Empowering skin cancer segmentation with segment anything model, arXiv.org. https://arxiv.org/abs/2304.13973
+Anand, V. et al. (1970) Segmentation and classification of skin cancer using K-means clustering and EFFICIENTNETB0 model, SpringerLink https://link.springer.com/chapter/10.1007/978-981-19-2004-2_42
+Aghdam, E.K. et al. (2022) Attention Swin U-Net: Cross-contextual attention mechanism for skin lesion segmentation, arXiv.org. https://arxiv.org/abs/2210.16898
+Nazi, Z.A. and Abir, T.A. (1970) Automatic skin lesion segmentation and melanoma detection: Transfer learning approach with U-Net and DCNN-SVM, SpringerLink.                                                       https://link.springer.com/chapter/10.1007/978-981-13-7564-4_32
+Skin cancer prognosis based on color matching and segmentation of ... https://www.semanticscholar.org/paper/Skin-Cancer-Prognosis-Based-on-Color-Matching-and-Hamd-Mohamad/8fd9ef0cefb6e7cb111f4ba80f43de653acfe095
+Skin cancer parameterisation algorithm based on epiluminiscence image ... https://ieeexplore.ieee.org/abstract/document/5407522
+M. S. Kartal and Ö. Polat, "Segmentation of Skin Lesions using U-Net with EfficientNetB7 Backbone," 2022 Innovations in Intelligent Systems and Applications Conference (ASYU), Antalya, Turkey, 2022, pp. 1-5, doi: 10.1109/ASYU56188.2022.9925369. https://ieeexplore.ieee.org/abstract/document/9925369/
+Arora, G. et al. (2020) Bag of feature and support vector machine based early diagnosis of skin cancer - neural computing and applications, SpringerLink. https://link.springer.com/article/10.1007/s00521-020-05212-y
+Salih, O. and Viriri, S. (1970) Skin cancer segmentation using a unified Markov Random Field, SpringerLink. https://link.springer.com/chapter/10.1007/978-3-030-03801-4_3
+Alom, M.Z. et al. (2018) Recurrent residual convolutional neural network based on U-Net (R2U-net) for medical image segmentation, arXiv.org. https://arxiv.org/abs/1802.06955
+W.A.J. Automatic skin lesion segmentation via iterative stochastic region merging, IEEE transactions on information technology in biomedicine : a publication of the IEEE Engineering in Medicine and Biology Society. https://pubmed.ncbi.nlm.nih.gov/21622078/
+Fuzzy C mean thresholding based level set for automated segmentation of https://www.researchgate.net/publication/271556925_Fuzzy_C_Mean_Thresholding_based_Level_Set_for_Automated_Segmentation_of_Skin_Lesions
+Y. Xie, J. Zhang, Y. Xia and C. Shen, "A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification," in IEEE Transactions on Medical Imaging, vol. 39, no. 7, pp. 2482-2493, July 2020, doi: 10.1109/TMI.2020.2972964.
+
